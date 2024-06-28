@@ -1,0 +1,33 @@
+{
+  "name": "react-native-fit-printing",
+  "title": "React Native Fit Printing",
+  "version": "2.0.0",
+  "description": "React Native Fit Printing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieunguyen64/react-native-fit-printing.git",
+    "baseUrl": "https://github.com/hieunguyen64/react-native-fit-printing"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Hieu Nguyen",
+    "email": "yourname@email.com"
+  },
+  "license": "Apache-2.0",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.5.0",
+    "react-native": ">=0.57.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.5.0",
+    "react-native": "^0.59.4"
+  }
+}
